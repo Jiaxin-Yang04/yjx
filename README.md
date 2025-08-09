@@ -1,2 +1,2 @@
 # yjx
-code for matlab
+MVC code in matlab
